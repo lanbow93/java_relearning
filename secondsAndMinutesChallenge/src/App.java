@@ -1,6 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        ;
         System.out.println(getDurationString(5000));
         System.out.println(getDurationString(60));
         System.out.println(getDurationString(24));
